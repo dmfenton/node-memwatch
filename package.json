@@ -1,5 +1,5 @@
 {
-  "name": "node-memwatch",
+  "name": "@dmfenton/node-memwatch",
   "description": "Keep an eye on your memory usage, and discover and isolate leaks.",
   "version": "1.0.0",
   "author": "Daniel Fenton",
